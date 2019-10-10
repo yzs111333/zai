@@ -1,0 +1,8 @@
+Looking in indexes: https://mirrors.aliyun.com/pypi/simple/
+Collecting django-reversion
+  Downloading https://mirrors.aliyun.com/pypi/packages/c3/0b/4e1ab11382131c2304ce93130cde0bc9ca88ea966e0d988a33de339db8cb/django_reversion-3.0.4-py2.py3-none-any.whl (81kB)
+Requirement already satisfied: django>=1.11 in e:\pycharm\zai\venv\lib\site-packages (from django-reversion) (2.2.6)
+Requirement already satisfied: pytz in e:\pycharm\zai\venv\lib\site-packages (from django>=1.11->django-reversion) (2019.3)
+Requirement already satisfied: sqlparse in e:\pycharm\zai\venv\lib\site-packages (from django>=1.11->django-reversion) (0.3.0)
+Installing collected packages: django-reversion
+Successfully installed django-reversion-3.0.4
